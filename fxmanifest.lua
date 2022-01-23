@@ -22,4 +22,8 @@ server_scripts {
     'server/cornerselling.lua'
 }
 
+server_exports {
+    'GetDealers'
+}
+
 lua54 'yes'
